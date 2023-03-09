@@ -8,6 +8,7 @@ img{
     border-color:black;
     border-width: thin;
     padding: 1%;
+    width: auto;
 }
 h1{
     text-align: center
@@ -33,4 +34,12 @@ body{
     padding: 9px 25px;
     border-width: thin;
     border-radius: 50px;
+}
+.boton-js{
+    font-weight: 700;
+    color:grey;
+    padding: 9px 25px;
+    border-width: thin;
+    border-radius: 50px;
+    border-color: black;
 }
